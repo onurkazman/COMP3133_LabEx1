@@ -1,0 +1,32 @@
+{
+  "name": "lab01_101185810",
+  "version": "1.0.0",
+  "description": "Comp3133 LabEx01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkazman/COMP3133_LabEx1.git"
+  },
+  "keywords": [
+    "fs",
+    "file",
+    "system",
+    "nodejs"
+  ],
+  "author": "Onur Kazman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurkazman/COMP3133_LabEx1/issues"
+  },
+  "homepage": "https://github.com/onurkazman/COMP3133_LabEx1#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.3.6",
+    "line-reader": "^0.4.0",
+    "neat-csv": "^6.0.1"
+  }
+}
